@@ -6,7 +6,7 @@ html {
 
 header.startup {
   background-position: center;
-  background-image: url("background.jpg");
+  background-image: url("imgs/background.jpg");
   background-size: cover;
   height: 100%;
 }
