@@ -1,0 +1,33 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("background.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+header.startup hr {
+  margin-top: 150px;
+  margin-bottom: 20px;
+}
+
+header.startup h1 {
+  font-size: 2rem;
+}
+
+.faded {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.btn-light {
+  transition: all 0.5s;
+}
+
+.btn-light:hover {
+    transform: scale(1.1);
+}
